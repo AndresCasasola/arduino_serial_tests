@@ -9,8 +9,8 @@ To prove them you can implement two diferents directions for comunication:
 
 - Arduino -> Linux PC
 For this direction you must use the files tx_serial_helloPacket_arduino.c and rx_serial_helloPacket_linux.c.
-In this way arduino will behave as a transmitter and the pc like a receptor.
+In this way arduino will behave as a transmitter and the pc like a receiver.
 
 - Linux PC -> Arduino
 For this direction you must use the files rx_serial_helloPacket_arduino.c and tx_serial_helloPacket_linux.c.
-In this way arduino will behave as a transmitter and the pc like a receptor.
+In this way arduino will behave as a transmitter and the pc like a receiver.
