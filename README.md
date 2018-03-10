@@ -1,6 +1,6 @@
 # Arduino Serial Tests
 
-- Two examples to implement arduino serial comunication in both directions with a linux pc
+Two examples to implement arduino serial comunication in both directions with a linux pc
 The transmitters programs sends a buffer of bytes (char) by serial way, the receiver process it and show the message in terminal.
 
 - These examples uses arduino-serial-library developed by todbot, https://github.com/todbot/arduino-serial
