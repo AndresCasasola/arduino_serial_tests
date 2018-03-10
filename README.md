@@ -13,4 +13,4 @@ In this way arduino will behave as a transmitter and the pc like a receiver.
 
 - Linux PC -> Arduino
 For this direction you must use the files rx_serial_helloPacket_arduino.c and tx_serial_helloPacket_linux.c.
-In this way arduino will behave as a transmitter and the pc like a receiver.
+In this way the pc will behave as a transmitter and the arduino like a receiver.
