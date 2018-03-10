@@ -5,7 +5,7 @@ The transmitters programs sends a buffer of bytes (char) by serial way, the rece
 
 - These examples uses arduino-serial-library developed by todbot, https://github.com/todbot/arduino-serial
 
-- To prove them you can implement two diferents directions for comunication:
+To prove them you can implement two diferents directions for comunication:
 
 - 1) Arduino -> Linux PC
 For this direction you must use the files tx_serial_helloPacket_arduino.c and rx_serial_helloPacket_linux.c.
