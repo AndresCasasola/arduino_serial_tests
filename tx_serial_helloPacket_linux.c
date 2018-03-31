@@ -3,19 +3,17 @@
 * Arduino mousecontroller (Development part)
 ----------------------------------------------------------
 
-* This example/application send a hello packet of char, size 20
+* This example/application send a hello packet of char, size 20.
 
-* Works on UNIX/LINUX systems
+* Works on UNIX/LINUX systems.
 ----------------------------------------------------------
 
-* Created 28 December 2017
+* Created 28 December 2017.
 
-* Copyleft (c) 2017, Andres Casasola Dominguez
+* Copyleft (c) 2017, Andres Casasola Dominguez.
 ----------------------------------------------------------
 
-* Last update: December 2017
-
-* By Andrés Casasola Dominguez
+* Last update: March 2018.
 
 */
 

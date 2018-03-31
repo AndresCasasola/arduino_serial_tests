@@ -3,11 +3,11 @@
 * Arduino mousecontroller (Development part)
 ----------------------------------------------------------
 
-* This example/application reads a hello packet from
+* This example/application reads a hello packet from the
 
-* the usb port, in this case with an arduino.
+* usb port, in this case with an arduino.
 
-* Arduino board. Works on any UNIX/LINUX system.
+* Arduino board. Works on any UNIX/LINUX systems.
 ----------------------------------------------------------
 
 * Created 28 December 2017.
@@ -15,19 +15,19 @@
 * Copyleft (c) 2017, Andres Casasola Dominguez.
 ----------------------------------------------------------
 
-* Last update: December 2017.
+* Last update: March 2018.
 
 */
 
-#include <stdio.h>    /* Standard input/output definitions */
-#include <stdlib.h> 
-#include <stdint.h>   /* Standard types */
-#include <string.h>   /* String function definitions */
-#include <unistd.h>   /* UNIX standard function definitions */
-#include <fcntl.h>    /* File control definitions */
-#include <errno.h>    /* Error number definitions */
-#include <termios.h>  /* POSIX terminal control definitions */
-#include <sys/ioctl.h>
+#include <stdio.h> 	    // Standard input/output definitions
+#include <stdlib.h>		// Standard library
+#include <stdint.h>     // Standard types
+#include <string.h>     // String function definitions
+#include <unistd.h>     // UNIX standard function definitions
+#include <fcntl.h>      // File control definitions
+#include <errno.h>      // Error number definitions
+#include <termios.h>    // POSIX terminal control definitions
+#include <sys/ioctl.h>	// Input/Output control
 #include <getopt.h>
 
 #include "arduino-serial-lib.h"		// Libraries for serial communication -> Thanks to todbot, GitHub: https://github.com/todbot
