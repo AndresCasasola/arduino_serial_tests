@@ -3,14 +3,12 @@
 * Serial data test - Way PC to Arduino by USB
 ----------------------------------------------------------
 
-* Created 28 December 2017
+* Created 28 December 2017.
 
-* Copyleft (c) 2017, Andres Casasola Domínguez
+* Copyleft (c) 2017, Andres Casasola Domínguez.
 ----------------------------------------------------------
 
-* Last update: December 2017
-
-* By Andrés Casasola Domínguez
+* Last update: March 2018.
 
 */
 
@@ -36,7 +34,7 @@ void loop(){
   data[4]='o';
   data[5]='!';
   data[6]=':';	//	When receiver program in arduino reads ':' it understand the msg has finished
-  data[7]='\0';	//	End of char array
+  data[7]='\0';	//	End of char chain
   Serial.print(data);
   delay(5000);
   
