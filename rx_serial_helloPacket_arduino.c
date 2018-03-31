@@ -3,14 +3,12 @@
 * Serial data test - Way PC to Arduino by USB
 ----------------------------------------------------------
 
-* Created 28 December 2017
+* Created 28 December 2017.
 
-* Copyleft (c) 2017, Andres Casasola Dominguez
+* Copyleft (c) 2017, Andres Casasola Dominguez.
 ----------------------------------------------------------
 
-* Last update: December 2017
-
-* By Andres Casasola Dominguez
+* Last update: December 2017.
 
 */
 
