@@ -5,7 +5,7 @@
 
 * This example/application reads a hello packet from the
 
-* usb port, in this case with an arduino
+* usb port, in this case with an arduino.
 
 * Arduino board. Works on any UNIX/LINUX systems
 ----------------------------------------------------------
@@ -16,8 +16,6 @@
 ----------------------------------------------------------
 
 * Last update: December 2017
-
-* By Andres Casasola Dominguez
 
 */
 
