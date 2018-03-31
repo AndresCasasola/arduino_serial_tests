@@ -3,19 +3,19 @@
 * Arduino mousecontroller (Development part)
 ----------------------------------------------------------
 
-* This example/application reads a hello packet from the
+* This example/application reads a hello packet from
 
-* usb port, in this case with an arduino.
+* the usb port, in this case with an arduino.
 
-* Arduino board. Works on any UNIX/LINUX system
+* Arduino board. Works on any UNIX/LINUX system.
 ----------------------------------------------------------
 
-* Created 28 December 2017
+* Created 28 December 2017.
 
-* Copyleft (c) 2017, Andres Casasola Dominguez
+* Copyleft (c) 2017, Andres Casasola Dominguez.
 ----------------------------------------------------------
 
-* Last update: December 2017
+* Last update: December 2017.
 
 */
 
