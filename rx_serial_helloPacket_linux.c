@@ -7,7 +7,7 @@
 
 * usb port, in this case with an arduino.
 
-* Arduino board. Works on any UNIX/LINUX systems
+* Arduino board. Works on any UNIX/LINUX system
 ----------------------------------------------------------
 
 * Created 28 December 2017
