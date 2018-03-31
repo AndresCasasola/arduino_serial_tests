@@ -3,7 +3,7 @@
 * Arduino mousecontroller (Development part)
 ----------------------------------------------------------
 
-* This example/application reads a hello paquet from the
+* This example/application reads a hello packet from the
 
 * usb port, in this case with an arduino
 
